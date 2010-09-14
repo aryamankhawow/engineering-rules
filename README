@@ -1,0 +1,5 @@
+Rules for building hardware. Read before the first meeting.
+
+  make install
+
+Rules are short on purpose. If a rule needs a paragraph, it is two rules.
