@@ -5,3 +5,4 @@ for f in rules/*.txt; do
   [ -s "$f" ] || { echo "EMPTY $f"; fail=1; }
 done
 exit $fail
+# grep for TODO without owner
