@@ -1,3 +1,4 @@
 # commits
 
 - one change per commit
+- commit message says why, not what
