@@ -1,2 +1,3 @@
 # pull-requests
 
+- small diffs merge same day
