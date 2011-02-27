@@ -6,3 +6,4 @@ High number means somebody is charging for machining, paperwork or habit.
 Sorted worst first. Update when a quote comes in.
 - index = part price / raw price
 - aluminium bracket, index 34
+- bolt, index 61
