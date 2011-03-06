@@ -1,3 +1,4 @@
 # sourcing
 
 - ask for the price of the raw material first
+- two quotes minimum
