@@ -2,3 +2,4 @@
 
 - one change per commit
 - commit message says why, not what
+- no wip commits on main
