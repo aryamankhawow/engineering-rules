@@ -1,3 +1,4 @@
 # editors
 
 - four spaces in C, tabs in make
+- no line over 100
