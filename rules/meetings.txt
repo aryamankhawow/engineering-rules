@@ -3,3 +3,4 @@
 - no meeting without a decision on the way out
 - five people max, or it is a briefing
 - no slides for a one-page decision
+- if the owner is missing it is a status meeting
