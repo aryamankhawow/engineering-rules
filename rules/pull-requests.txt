@@ -1,3 +1,4 @@
 # pull-requests
 
 - small diffs merge same day
+- one reviewer is enough
