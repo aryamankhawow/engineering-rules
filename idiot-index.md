@@ -9,3 +9,4 @@ Sorted worst first. Update when a quote comes in.
 - bolt, index 61
 - clamp, index 88. why is a clamp 88
 - sheet metal screw, index 112
+- o-ring, index 140
