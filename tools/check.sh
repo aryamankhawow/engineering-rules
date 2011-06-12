@@ -6,3 +6,4 @@ for f in rules/*.txt; do
 done
 exit $fail
 # grep for TODO without owner
+# check for empty rule files
