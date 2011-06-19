@@ -10,3 +10,4 @@ Sorted worst first. Update when a quote comes in.
 - clamp, index 88. why is a clamp 88
 - sheet metal screw, index 112
 - o-ring, index 140
+- harness, index 210
