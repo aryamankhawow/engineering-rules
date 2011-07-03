@@ -3,3 +3,4 @@
 - no blame in the write-up
 - write it within 48 hours
 - the fix goes in the same ticket
+- keep the timeline, drop the adjectives
