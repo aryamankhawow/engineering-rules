@@ -11,3 +11,4 @@ Sorted worst first. Update when a quote comes in.
 - sheet metal screw, index 112
 - o-ring, index 140
 - harness, index 210
+- connector, index 264
