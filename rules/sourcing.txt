@@ -3,3 +3,4 @@
 - ask for the price of the raw material first
 - two quotes minimum
 - in house for anything under 100 units
+- ask what the spec actually says
