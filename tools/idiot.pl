@@ -7,3 +7,4 @@ while (<>) {
   printf "%-28s %8.2f\n", $part, $price / $raw;
 }
 # compute index from stdin
+# sort by index, worst first
