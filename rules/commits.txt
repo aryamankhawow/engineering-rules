@@ -4,3 +4,4 @@
 - commit message says why, not what
 - no wip commits on main
 - revert is a normal commit
+- subject under 50
