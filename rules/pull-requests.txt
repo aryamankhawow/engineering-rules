@@ -3,3 +3,4 @@
 - small diffs merge same day
 - one reviewer is enough
 - title is the change, body is the why
+- no PR without a test or a reason
