@@ -4,3 +4,4 @@
 - no line over 100
 - vim, no plugins
 - no autocomplete for the first draft
+- spell check off, it fights part numbers
