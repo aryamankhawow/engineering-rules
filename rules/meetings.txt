@@ -6,3 +6,4 @@
 - if the owner is missing it is a status meeting
 - stand up, 15 minutes
 - no status updates, read the board
+- the decision owner repeats it back
