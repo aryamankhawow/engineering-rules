@@ -5,3 +5,4 @@
 - the fix goes in the same ticket
 - keep the timeline, drop the adjectives
 - RUD #2 in here
+- root cause, not the last thing that failed
