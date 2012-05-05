@@ -5,3 +5,4 @@
 - in house for anything under 100 units
 - ask what the spec actually says
 - quote the raw stock, then the machining
+- bins, not cabinets
