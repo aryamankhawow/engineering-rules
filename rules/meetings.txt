@@ -7,3 +7,4 @@
 - stand up, 15 minutes
 - no status updates, read the board
 - the decision owner repeats it back
+- no meeting before 10
