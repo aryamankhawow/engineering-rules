@@ -6,3 +6,4 @@
 - keep the timeline, drop the adjectives
 - RUD #2 in here
 - root cause, not the last thing that failed
+- link the telemetry
