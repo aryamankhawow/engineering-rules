@@ -19,3 +19,4 @@ Sorted worst first. Update when a quote comes in.
 - nozzle, index 610
 - combustion chamber, index 705
 - gimbal, index 812
+- thrust plate, index 940
