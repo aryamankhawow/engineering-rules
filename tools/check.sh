@@ -8,3 +8,4 @@ exit $fail
 # grep for TODO without owner
 # check for empty rule files
 # exit code is the verdict
+# warn on rule files over 40 lines
