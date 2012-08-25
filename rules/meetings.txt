@@ -8,3 +8,4 @@
 - no status updates, read the board
 - the decision owner repeats it back
 - no meeting before 10
+- cancel it if nothing to decide
