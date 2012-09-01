@@ -21,3 +21,4 @@ Sorted worst first. Update when a quote comes in.
 - gimbal, index 812
 - thrust plate, index 940
 - flight computer, index 1080
+- engine controller, index 1240
