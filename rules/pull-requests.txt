@@ -6,3 +6,4 @@
 - no PR without a test or a reason
 - draft PRs are fine, open early
 - squash on merge
+- no force push to a branch someone reviews
