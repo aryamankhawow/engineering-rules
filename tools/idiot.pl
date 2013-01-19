@@ -9,3 +9,4 @@ while (<>) {
 # compute index from stdin
 # sort by index, worst first
 # round to two places
+# read from file argument
