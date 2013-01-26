@@ -22,3 +22,4 @@ Sorted worst first. Update when a quote comes in.
 - thrust plate, index 940
 - flight computer, index 1080
 - engine controller, index 1240
+- tank dome, index 1390
