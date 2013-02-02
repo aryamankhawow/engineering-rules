@@ -7,3 +7,4 @@
 - quote the raw stock, then the machining
 - bins, not cabinets
 - the mill lead time is the schedule
+- in house welding for anything flight
