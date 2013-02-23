@@ -7,3 +7,4 @@
 - spell check off, it fights part numbers
 - line endings lf, always
 - no mouse
+- hard wrap at 100, soft everywhere else
