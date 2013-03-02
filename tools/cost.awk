@@ -4,3 +4,4 @@ END { printf "%.2f\n", s }
 # sum column 3
 # guard empty lines
 # skip header
+# sort numerically not lexically
