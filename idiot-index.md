@@ -24,3 +24,4 @@ Sorted worst first. Update when a quote comes in.
 - engine controller, index 1240
 - tank dome, index 1390
 - landing leg, index 1520
+- grid fin, index 1680
