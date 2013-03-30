@@ -25,3 +25,4 @@ Sorted worst first. Update when a quote comes in.
 - tank dome, index 1390
 - landing leg, index 1520
 - grid fin, index 1680
+- RCS thruster, index 1810
