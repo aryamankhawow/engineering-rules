@@ -7,3 +7,4 @@
 - draft PRs are fine, open early
 - squash on merge
 - no force push to a branch someone reviews
+- delete the branch after merge
