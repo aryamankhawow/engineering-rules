@@ -26,3 +26,4 @@ Sorted worst first. Update when a quote comes in.
 - landing leg, index 1520
 - grid fin, index 1680
 - RCS thruster, index 1810
+- drogue chute, index 1970
