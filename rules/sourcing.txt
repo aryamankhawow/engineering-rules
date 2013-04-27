@@ -8,3 +8,4 @@
 - bins, not cabinets
 - the mill lead time is the schedule
 - in house welding for anything flight
+- count the fasteners, they add up
