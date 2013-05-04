@@ -9,3 +9,4 @@
 - sign nothing you did not read
 - the body is for the why, use it
 - no misc
+- if it needs two paragraphs, split the commit
