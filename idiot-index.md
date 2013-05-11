@@ -27,3 +27,4 @@ Sorted worst first. Update when a quote comes in.
 - grid fin, index 1680
 - RCS thruster, index 1810
 - drogue chute, index 1970
+- cold gas valve, index 2140
